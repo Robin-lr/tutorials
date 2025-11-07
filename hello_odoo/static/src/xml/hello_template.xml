@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+    <!-- Client-side Owl template must use t-name matching the JS component -->
+    <t t-name="hello_odoo.HelloTemplate" owl="1">
+        <div class="o_content p-4">
+            <h1>Hello Odoo!</h1>
+            <p>Congratulations, your custom action is working!</p>
+            <p>This is a custom action executed from JavaScript.</p>
+        </div>
+    </t>
+</templates>
